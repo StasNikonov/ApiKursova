@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovaAPI", "KursovaAPI\KursovaAPI.csproj", "{3A05FD23-F1D6-4042-BE18-A906873F0ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A05FD23-F1D6-4042-BE18-A906873F0ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A05FD23-F1D6-4042-BE18-A906873F0ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A05FD23-F1D6-4042-BE18-A906873F0ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A05FD23-F1D6-4042-BE18-A906873F0ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8206090D-BCE2-4BB6-9FB6-D3F722264C34}
+	EndGlobalSection
+EndGlobal
